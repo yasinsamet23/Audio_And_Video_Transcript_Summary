@@ -1,4 +1,4 @@
-# 🎥 Audio and Video Summary Application
+# 🎥 Audio and Video Transcript And Summary Application
 
 This project transcribes an audio or video file and then extracts its summary in Turkish using the OpenAI API. Python scripts (`transcribe.py`, `transcribe_split.py`, `summarize.py`) are integrated with a C# Windows Forms interface.
 
